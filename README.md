@@ -1,6 +1,8 @@
 # Brain-Tumor-Classification
 A CNN made to classify Brain Tumor in MRI images of patients.
 
+Made as a project for my SoftComputing Course in college.
+
 
 
 The Dataset contains 4 sets of images namely - glioma, meningioma, pituitary tumor and notumor. 
